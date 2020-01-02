@@ -8,9 +8,9 @@ public class MyFirstProgramInEclipse {
 		System.out.println("My First Program  in Eclipse to be updated in GITHub to be Uploaded");
 		Scanner sc=new Scanner(System.in);
 		while (true) {
-			String s=sc.nextLine();
-			System.out.println(s);
-			if (s.equals("Exit")) {
+			String st=sc.nextLine();
+			System.out.println(st);
+			if (st.equals("Exit")) {
 				break;
 			}
 		}
