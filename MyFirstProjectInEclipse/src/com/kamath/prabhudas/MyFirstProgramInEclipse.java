@@ -10,7 +10,7 @@ public class MyFirstProgramInEclipse {
 		while (true) {
 			String st=sc.nextLine();
 			System.out.println(st);
-			if (st.equals("Exit")) {
+			if (st.equals("exit")) {
 				break;
 			}
 		}
